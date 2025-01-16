@@ -1,0 +1,9 @@
+spring.application.name=
+spring.datasource.url=
+spring.datasource.username=
+spring.datasource.password=
+spring.jpa.database-platform=
+spring.h2.console.enabled=
+spring.jpa.hibernate.ddl-auto=
+jwt.secret=
+jwt.expiration=
